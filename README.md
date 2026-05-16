@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.png" width="100%"/>
+<img src="header.png" width="80%"/>
 
 <img height="180em"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=DudaBouAnni&show_icons=true&bg_color=070B1A&title_color=7B5CFF&text_color=E7DCFF&icon_color=FFD95E&border_color=2D3B8F"/>
